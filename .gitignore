@@ -1,3 +1,5 @@
 *.csv
 *.rpt
 *.sql
+__pycache__/
+*.json
